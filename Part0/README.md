@@ -85,12 +85,12 @@ The diagram was made as a GitHub Markdown-file using the Mermaid-syntax, as foll
         deactivate server
     
         Note right of browser: The browser executes the callback function that renders the note
-![alt text](https://github.com/RummPanda/FullstackCourse/blob/main/Part0/0.4_NewNote_Diagram.png)
+![alt text](https://github.com/RummPanda/helsinki-fullstack-course-solutions/blob/main/Part0/0.4_NewNote_Diagram.png)
 
 # 0.5: Single page app diagram
 Create a diagram depicting the situation where the user goes to the single-page app version of the notes app at (https://studies.cs.helsinki.fi/exampleapp/spa).
-![alt text](https://github.com/RummPanda/FullstackCourse/blob/main/Part0/0.5_Single_App_Page.png)
+![alt text](https://github.com/RummPanda/helsinki-fullstack-course-solutions/blob/main/Part0/0.5_Single_App_Page.png)
 
 # 0.6: New note in Single page app diagram
 Create a diagram depicting the situation where the user creates a new note using the single-page version of the app.
-![alt text](https://github.com/RummPanda/FullstackCourse/blob/main/Part0/0.6_NewNote_SPA_Diagram.png)
+![alt text](https://github.com/RummPanda/helsinki-fullstack-course-solutions/blob/main/Part0/0.6_NewNote_SPA_Diagram.png)
